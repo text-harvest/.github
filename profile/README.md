@@ -6,9 +6,9 @@ Each tool is easy to configure for your own data and schemas.
 
 | Tool | What it does |
 |--- |---|
-| [**tater**](https://github.com/RENCI/tater) | Build document annotation apps from a Pydantic schema |
-| [**tractor**](https://github.com/clin-ann/tractor) | Extract structured data from document collections with LLMs |
-| [**haystack**](https://github.com/RENCI/haystack) | Search and cohort-building UI for tabular clinical note data |
+| [**tater**](https://github.com/text-harvest/tater) | Build document annotation apps from a Pydantic schema |
+| [**tractor**](https://github.com/text-harvest/tractor) | Extract structured data from document collections with LLMs |
+| [**haystack**](https://github.com/text-harvest/haystack) | Search and cohort-building UI for tabular clinical note data |
 
 ---
 
