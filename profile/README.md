@@ -1,4 +1,4 @@
-# clin-ann
+# text-harvest
 
 Open-source tools for working with text: annotation, structured data extraction with LLMs, and search.
 
