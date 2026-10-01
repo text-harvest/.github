@@ -1,12 +1,16 @@
-## Hi there 👋
+# clin-ann
 
-<!--
+Open-source tools for working with text: annotation, structured data extraction with LLMs, and search.
 
-**Here are some ideas to get you started:**
+Each tool is easy to configure for your own data and schemas.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Tool | What it does |
+|--- |---|
+| [**tater**](https://github.com/RENCI/tater) | Build document annotation apps from a Pydantic schema |
+| [**tractor**](https://github.com/clin-ann/tractor) | Extract structured data from document collections with LLMs |
+| [**haystack**](https://github.com/RENCI/haystack) | Search and cohort-building UI for tabular clinical note data |
+
+---
+
+*Developed at [UNC-Chapel Hill](https://www.unc.edu): a collaboration between [RENCI](https://renci.org), the [School of Data and Information Sciences (SDIS)](https://datascience.unc.edu), the [Department of Pathology and Laboratory Medicine](https://www.med.unc.edu/pathology/), and the [Carmichael Lab](https://idc9.github.io).*
+
